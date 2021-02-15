@@ -2058,6 +2058,11 @@ case 'timer':
                            }
 		} catch (e) {
 			console.log('Error : %s', color(e, 'red'))
+			/****** APIKEYS DO TIO SAAD ******/
+{
+  "status": true,
+  "message": "https://tobz-api.herokuapp.com/api"
+}
 		}
 	})
 }
