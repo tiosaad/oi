@@ -141,7 +141,7 @@ const help = (prefix) => {
    ❏ ${prefix}bcgc
    ❏ ${prefix}clone
    ❏ ${prefix}clearall
-◪ *OUTROS*
+◪ *UMAS PARADAS AE*
   
    ❏ ${prefix}send
    ❏ ${prefix}wame
